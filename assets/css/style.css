@@ -361,6 +361,7 @@ B. Helpers
 [data-bg-image] {
     background-size: cover;
     background-position: 50%;
+    
 }
 
 .ts-background {
@@ -379,7 +380,7 @@ B. Helpers
 }
 
 .ts-background-repeat {
-    background-repeat: repeat;
+    background-repeat: no-repeat;
     background-size: inherit;
 }
 
